@@ -1,4 +1,4 @@
 test
 ====
 
-demo repo abcd
+demo repo
